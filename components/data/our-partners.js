@@ -7,7 +7,7 @@ export const ourpartners = [
         PartnerEmail: 'hello@climb-digital.com',
         PartnerPhone: '+15612795411',
         PartnerCountry: 'USA',
-        PartnerLogo: './images/partners/climb-digital.png',
+        PartnerLogo: './partners/climb-digital.png',
     },
     {
         id: '02',
@@ -17,7 +17,7 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'Belgium',
-        PartnerLogo: './images/partners/p1studio.svg',
+        PartnerLogo: './partners/p1studio.svg',
     },
     {
         id: '05',
@@ -27,7 +27,7 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'RO',
-        PartnerLogo: './images/partners/ab.svg',
+        PartnerLogo: './partners/ab.svg',
     },
     {
         id: '06',
@@ -37,17 +37,17 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'RO',
-        PartnerLogo: './images/partners/cft.png',
+        PartnerLogo: './partners/cft.png',
     },
     {
         id: '03',
-        PartnerName: 'Kmura',
-        PartnerFrom: '01.03.2024',
-        PartnerUrl: 'https://kmura.store',
+        PartnerName: 'Tim Debellis',
+        PartnerFrom: '01.01.2024',
+        PartnerUrl: 'https://timdebellisrealtor.com/',
         PartnerEmail: '',
         PartnerPhone: '',
-        PartnerCountry: 'Romania',
-        PartnerLogo: './images/partners/kmura.png',
+        PartnerCountry: 'USA',
+        PartnerLogo: './partners/timdebellis.png',
     },
     {
         id: '04',
@@ -57,7 +57,7 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'BE',
-        PartnerLogo: './images/partners/seagul.svg',
+        PartnerLogo: './partners/seagull.png',
     },
     {
         id: '07',
@@ -67,7 +67,7 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'BE',
-        PartnerLogo: './images/partners/snugger.png',
+        PartnerLogo: './partners/snugger.png',
     },
     {
         id: '08',
@@ -77,7 +77,7 @@ export const ourpartners = [
         PartnerEmail: '',
         PartnerPhone: '',
         PartnerCountry: 'RO',
-        PartnerLogo: './images/partners/ttb.svg',
+        PartnerLogo: './partners/ttb.svg',
     }
 ]
 
