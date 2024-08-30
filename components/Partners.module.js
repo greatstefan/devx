@@ -140,7 +140,7 @@ const Partners = () => {
                       alt="Stripe" 
                     />
                   </div>
-                  <div key="117" className='partners-logo'>
+                  <div key="155" className='partners-logo'>
                     <ImageKitComponent 
                       path="/partners/pwa.svg" 
                       alt="PWA" 
@@ -148,7 +148,7 @@ const Partners = () => {
                   </div>
                   <div key="118" className='partners-logo'>
                     <ImageKitComponent 
-                      path="/partners/figma.svg" 
+                      path="/partners/Figma.svg" 
                       alt="Figma" 
                     />
                   </div>
