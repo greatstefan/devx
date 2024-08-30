@@ -1,0 +1,217 @@
+.iseHome {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #000000;
+
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.iseHome h1, .iseHome h2 {
+    margin: 0;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    width: 306px;
+    height: 66px;
+    border-radius: 33px;
+    cursor: pointer;
+}
+.logo img {
+    width: 286px;
+    height: 46px;
+    transform: scale(0.7);
+}
+.contact {
+    position: absolute;
+    right: 100px;
+    top: 84px;
+    color: #BEBEBE;
+    cursor: pointer;
+    padding: 8px 16px 8px 38px;
+    border-radius: 18px;
+    background: #1E2124 url(/images/ise/mail.svg) 10% center no-repeat;
+    background-size: 16px auto;
+}
+.footerLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 306px;
+    height: 66px;
+}
+.footerLogo img {
+    width: 286px;
+    height: 46px;
+    transform: scale(0.4);
+}
+
+.hero1 {
+    width: 100%;
+    height: 100vh;
+    background: #000 url(/images/ise/hero1-bg.jpg) right bottom no-repeat;
+    background-size: 100% auto;
+}
+.hero2 {
+    width: 100%;
+    height: 100vh;
+    background: #000 url(/images/ise/hero2-bg.jpg) left top no-repeat;
+    background-size: 100% auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 1280px;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.titles {
+    display: flex;
+    width: 650px;
+    flex-direction: column;
+    
+}
+.titles h1 {
+    font-weight: 400;
+    color: #CBCBCB;
+    font-size: 50px;
+}
+.titles p {
+    max-width: 480px;
+    font-weight: 400;
+    color: #6E6E6E;
+    font-size: 32px;   
+}
+
+.hero2 h2 {
+    text-align: center;
+    padding-top: 35vh;
+    font-size: 34px;
+    color: #CBCBCB;
+    font-weight: 500;
+}
+.hero2 .container {flex-direction: column;}
+.threeCol {
+    padding-top: 80px;
+    width: 77%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    color: #bfbfbf;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 60px;
+}
+
+.bullet {
+    margin-right: 12px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #135ef2;
+}
+
+.hero3 {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #000 url(/images/ise/hero3-bg.jpg) center bottom no-repeat;
+    background-size: 100% auto;
+    text-align: center;
+}
+.listitem {
+    font-weight: 300;
+    font-size: 31px;
+    text-transform: uppercase;
+    color: #516A8B;
+    line-height: 72px;    
+}
+
+.hero4 {
+    width: 100%;
+    height: 65vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #000 url(/images/ise/hero4-bg.jpg) center center no-repeat;
+    background-size: 100% auto;
+    text-align: center;
+}
+.button {
+    background-color: rgba(19,94,242, 0.81);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0.04rem;
+    padding: 20px 50px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: rgba(19,94,242, 0.94);
+    color: #fff;
+}
+.footer {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 767px) {    
+
+    .hero2 h2 {font-size: 27px }
+    .contact { display: none }
+    .threeCol {
+        width: auto;
+        flex-direction: column;
+    }
+    .col {
+        width: 100%;
+    }
+    .item {line-height: 50px}
+    .hero3 .listitem {
+        line-height: 47px;
+        font-size: 27px;
+    }
+    .hero1 h1 {font-size: 37px}
+    .hero1 p {font-size: 30px}
+}

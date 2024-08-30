@@ -1,0 +1,30 @@
+# .gitignore
+
+# Next.js build output
+.next/
+
+# Compiled files
+*.pnp.js
+*.pnp.cjs
+*.log
+*.lock
+*.zip
+*.rar
+*.gz
+*.tar
+*.tar.gz
+*.tgz
+*.map
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache directories
+.cache/
+.cache-loader/

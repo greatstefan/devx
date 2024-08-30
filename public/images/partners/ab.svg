@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2582.35 2582.35" width="70" height="70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 14.17px;
+      }
+
+      .cls-2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 250px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-3" d="M876.74,691.1h193.24l-379.32,1147.1h61.99l378.07-1143.32,351.73,1048.64c-38.53,21.95-83.07,34.51-130.5,34.51h-441.28v58.86h441.28c52.95,0,103.95-12.66,149.57-36.52l12.69,37.84h62.08l-23.81-70.99c9.76-7.75,19.15-16.09,28.1-25.03,61.07-61.07,94.7-142.26,94.7-228.63s-33.63-167.56-94.7-228.63c-25.73-25.73-55.05-46.6-86.81-62.12,33.47-15.16,64.26-36.4,91.02-63.16,58.35-58.35,90.49-135.93,90.49-218.45s-32.14-160.1-90.49-218.45c-58.35-58.35-135.93-90.49-218.45-90.49h-548.46v437.11h58.86v-378.25ZM1616.43,1513.55c0,76.22-32.42,145-84.18,193.31l-153.08-456.37c133.1,13.66,237.26,126.42,237.26,263.07ZM1366.35,691.1c137.9,0,250.08,112.19,250.08,250.08s-107.06,244.88-240.56,249.9c-5.6-.41-11.23-.66-16.88-.78l-167.44-499.2h174.8Z"/>
+    <path class="cls-1" d="M2004.08,248.86C1796.37,96.85,1540.21,7.09,1263.09,7.09,569.42,7.09,7.09,569.42,7.09,1263.09c0,423.08,209.19,797.3,529.78,1024.88"/>
+    <text class="cls-2" transform="translate(781.65 2425.73) rotate(19.77)"><tspan x="0" y="0">a</tspan></text>
+    <text class="cls-2" transform="translate(1103.69 2510.15) rotate(5.89)"><tspan x="0" y="0">l</tspan></text>
+    <text class="cls-2" transform="translate(1371.51 2515.63) rotate(-6.21)"><tspan x="0" y="0">l</tspan></text>
+    <text class="cls-2" transform="translate(1639.37 2464.59) rotate(-20.47)"><tspan x="0" y="0">B</tspan></text>
+    <text class="cls-2" transform="translate(1956.71 2313.26) rotate(-36.29)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-2" transform="translate(2212.9 2089.9) rotate(-52.41)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-2" transform="translate(2410.25 1783.83) rotate(-69.27)"><tspan x="0" y="0">U</tspan></text>
+    <text class="cls-2" transform="translate(2511.9 1418.76) rotate(-85.8)"><tspan x="0" y="0">T</tspan></text>
+    <text class="cls-2" transform="translate(2507.26 1082.33) rotate(-99.58)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-2" transform="translate(2440.15 817.82) rotate(-113.57)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-2" transform="translate(2278.52 520.39) rotate(-129.05)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+</svg>

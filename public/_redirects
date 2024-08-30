@@ -1,0 +1,2 @@
+http://devx.digital/*  https://www.devx.digital/:splat  301!
+https://devx.digital/* https://www.devx.digital/:splat 301!

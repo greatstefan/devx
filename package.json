@@ -1,0 +1,41 @@
+{
+  "name": "devx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate-sitemap": "node generate-sitemap.js"
+  },
+  "dependencies": {
+    "@bradgarropy/next-google-analytics": "^1.0.2",
+    "@emailjs/browser": "^3.7.0",
+    "@hotjar/browser": "^1.0.9",
+    "@svgr/webpack": "^6.5.1",
+    "babel-plugin-styled-components": "^2.0.7",
+    "hamburger-react": "^2.5.0",
+    "image-webpack-loader": "^8.1.0",
+    "mime": "^3.0.0",
+    "next": "12.3.1",
+    "next-seo": "^5.8.0",
+    "react": "18.2.0",
+    "react-collapsed": "^3.5.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.29.0",
+    "sharp": "^0.33.2",
+    "sitemap": "^7.1.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "eslint": "8.26.0",
+    "eslint-config-next": "12.3.1",
+    "eslint-config-prettier": "^8.5.0",
+    "next-images": "^1.8.5",
+    "responsive-loader": "^3.1.2"
+  }
+}
